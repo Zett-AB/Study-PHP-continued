@@ -22,8 +22,10 @@
     <link rel="stylesheet" type="text/css" href="style.css"></link>
 </head>
 <body>
-<h1>Мой учебный сайт по PHP - ПРОДОЛЖЕНИЕ</h1>
-<h5 class="subtitle">Часть 2</h5>
+    <section class="header">
+        <h1>Мой учебный сайт по PHP - ПРОДОЛЖЕНИЕ</h1>
+        <h5 class="subtitle">Часть 2</h5>
+    </section>
     <section class="phh-text-output">
         <h2>PHP: Вывод текста</h2>
         <p>

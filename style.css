@@ -3,6 +3,13 @@
     padding-left: 18px;
 }
 
+
+.header{
+    font-family: 'Philosopher', sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+
 .phh-text-output{
     font-family: 'Montserrat Alternates', sans-serif;
     font-size: 18px;
