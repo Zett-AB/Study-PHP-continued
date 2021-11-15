@@ -47,7 +47,7 @@
                         echo "Сейчас я изучаю PHP! br>"; <br>
                         echo "Эта ", "строка ", "была ", "сделана", " из нескольких аргументов."; <br>
                     ?> <br>
-                    Теперь ниже смотрим код в действиии.
+                    <strong>Теперь ниже смотрим код в действиии.</strong>
             </p>
             <div class="code-php">
                 <?php
@@ -71,7 +71,7 @@
             ?> 
             </p>
             <p> Смотрим код в действии.</p>
-            <div class="php-code">
+            <div class="code-php">
                 <?php
                     $txt1 = "PHP это легко!";
                     $txt2 = "PuzzleWeb.ru";
@@ -100,7 +100,7 @@
                     ?> 
             </p>
             <p>Смотрим код в действии.</p>
-            <div class="php-code">
+            <div class="code-php">
                     <?php
                         print "<h2>PHP это легко!</h2>";
                         print "Сейчас я изучаю PHP!<br>";
@@ -121,7 +121,7 @@
                 ?>
             </p>
             <p>Смотрим код в действии.</p>
-            <div class="php-code">
+            <div class="code-php">
                 <?php
                     $txt1 = "PHP это легко!";
                     $txt2 = "PuzzleWeb.ru";
